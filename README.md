@@ -18,28 +18,6 @@ The #TechSeriesMLChallenge, hosted by GDSC UB, provided us with the opportunity 
 
 - **Evaluation and Metrics:** We employed industry-standard metrics to evaluate the performance of our models, ensuring a comprehensive understanding of their strengths and limitations. Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared were among the metrics considered.
 
-## Getting Started:
-To explore our work and reproduce the results, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/diamond-price-prediction.git
-   cd diamond-price-prediction
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Explore the Jupyter Notebooks:
-   - Start with the `data_exploration.ipynb` notebook to understand the dataset.
-   - Move on to `preprocessing.ipynb` for data cleaning and feature engineering.
-   - Dive into `model_training.ipynb` to witness the model selection and training process.
-   - Evaluate model performance using `evaluation_metrics.ipynb`.
-
-4. Contribute: We welcome contributions and suggestions to enhance the project further. Feel free to open issues, submit pull requests, or reach out to us with your insights.
-
 ## Challenges Faced:
 The journey was not without its challenges. From handling outliers to selecting the most suitable features, we encountered and overcame obstacles that enriched our learning experience.
 
